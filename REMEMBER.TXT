@@ -1,0 +1,8 @@
+ spread syntax (...) allows you to effectively pass the elements of the array as separate arguments to Math.min() or  Math.max()
+
+
+ANOTHER METHOD TO FIND SUM OF N ARRAY IN INDEX
+            // let sum = 0
+            // for (let index = 0; index < length; index++) {
+            //     sum += ages[index];                                         
+            // }
